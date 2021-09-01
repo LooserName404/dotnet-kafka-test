@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FR/EAs4KqhVx2UWEI6u20/v6RsKLZRUoxZOFwxwHOZnUhyLiDQte2xuxoHKV3w87NavuY9EWjRz7bSN27BNWDg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\dotnet-kafka\\topic\\topic.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thyag\\.nuget\\packages\\confluent.kafka\\1.7.0\\confluent.kafka.1.7.0.nupkg.sha512",
+    "C:\\Users\\thyag\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\thyag\\.nuget\\packages\\librdkafka.redist\\1.7.0\\librdkafka.redist.1.7.0.nupkg.sha512",
+    "C:\\Users\\thyag\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\thyag\\.nuget\\packages\\serilog.sinks.console\\4.0.0\\serilog.sinks.console.4.0.0.nupkg.sha512",
+    "C:\\Users\\thyag\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
